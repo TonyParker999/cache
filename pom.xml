@@ -16,6 +16,7 @@
   <modules>
     <module>boot_cache</module>
     <module>mvc_cache</module>
+    <module>redis-lock</module>
   </modules>
 
   <name>cache</name>
